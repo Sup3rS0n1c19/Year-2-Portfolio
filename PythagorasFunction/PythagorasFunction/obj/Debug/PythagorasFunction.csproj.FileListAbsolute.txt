@@ -1,0 +1,11 @@
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PythagorasFunction\PythagorasFunction\bin\Debug\PythagorasFunction.exe.config
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PythagorasFunction\PythagorasFunction\bin\Debug\PythagorasFunction.exe
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PythagorasFunction\PythagorasFunction\bin\Debug\PythagorasFunction.pdb
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PythagorasFunction\PythagorasFunction\obj\Debug\PythagorasFunction.csproj.AssemblyReference.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PythagorasFunction\PythagorasFunction\obj\Debug\PythagorasFunction.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PythagorasFunction\PythagorasFunction\obj\Debug\PythagorasFunction.Form1.resources
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PythagorasFunction\PythagorasFunction\obj\Debug\PythagorasFunction.Properties.Resources.resources
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PythagorasFunction\PythagorasFunction\obj\Debug\PythagorasFunction.csproj.GenerateResource.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PythagorasFunction\PythagorasFunction\obj\Debug\PythagorasFunction.csproj.CoreCompileInputs.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PythagorasFunction\PythagorasFunction\obj\Debug\PythagorasFunction.exe
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PythagorasFunction\PythagorasFunction\obj\Debug\PythagorasFunction.pdb

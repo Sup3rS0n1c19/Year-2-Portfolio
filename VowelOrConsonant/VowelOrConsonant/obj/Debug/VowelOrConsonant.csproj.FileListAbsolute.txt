@@ -1,0 +1,11 @@
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\VowelOrConsonant\VowelOrConsonant\obj\Debug\VowelOrConsonant.csproj.AssemblyReference.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\VowelOrConsonant\VowelOrConsonant\obj\Debug\VowelOrConsonant.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\VowelOrConsonant\VowelOrConsonant\obj\Debug\VowelOrConsonant.Form1.resources
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\VowelOrConsonant\VowelOrConsonant\obj\Debug\VowelOrConsonant.Properties.Resources.resources
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\VowelOrConsonant\VowelOrConsonant\obj\Debug\VowelOrConsonant.csproj.GenerateResource.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\VowelOrConsonant\VowelOrConsonant\obj\Debug\VowelOrConsonant.csproj.CoreCompileInputs.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\VowelOrConsonant\VowelOrConsonant\bin\Debug\VowelOrConsonant.exe.config
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\VowelOrConsonant\VowelOrConsonant\bin\Debug\VowelOrConsonant.exe
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\VowelOrConsonant\VowelOrConsonant\bin\Debug\VowelOrConsonant.pdb
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\VowelOrConsonant\VowelOrConsonant\obj\Debug\VowelOrConsonant.exe
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\VowelOrConsonant\VowelOrConsonant\obj\Debug\VowelOrConsonant.pdb

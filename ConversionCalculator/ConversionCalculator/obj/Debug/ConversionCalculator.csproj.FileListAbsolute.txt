@@ -1,0 +1,11 @@
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ConversionCalculator\ConversionCalculator\bin\Debug\ConversionCalculator.exe.config
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ConversionCalculator\ConversionCalculator\bin\Debug\ConversionCalculator.exe
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ConversionCalculator\ConversionCalculator\bin\Debug\ConversionCalculator.pdb
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.csproj.AssemblyReference.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.Properties.Resources.resources
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.csproj.GenerateResource.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.exe
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.pdb
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.ConversionCalculator.resources
