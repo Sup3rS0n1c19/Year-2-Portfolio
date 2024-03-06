@@ -1,0 +1,11 @@
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe.config
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.pdb
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.csproj.AssemblyReference.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.Form1.resources
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.Properties.Resources.resources
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.csproj.GenerateResource.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.exe
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.pdb

@@ -1,0 +1,11 @@
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\C# Test\C# Test\bin\Debug\C# Test.exe.config
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\C# Test\C# Test\bin\Debug\C# Test.exe
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\C# Test\C# Test\bin\Debug\C# Test.pdb
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\C# Test\C# Test\obj\Debug\C# Test.csproj.AssemblyReference.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\C# Test\C# Test\obj\Debug\C# Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\C# Test\C# Test\obj\Debug\C__Test.Form1.resources
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\C# Test\C# Test\obj\Debug\C__Test.Properties.Resources.resources
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\C# Test\C# Test\obj\Debug\C# Test.csproj.GenerateResource.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\C# Test\C# Test\obj\Debug\C# Test.csproj.CoreCompileInputs.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\C# Test\C# Test\obj\Debug\C# Test.exe
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\C# Test\C# Test\obj\Debug\C# Test.pdb

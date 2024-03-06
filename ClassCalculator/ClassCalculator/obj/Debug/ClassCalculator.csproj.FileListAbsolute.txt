@@ -1,0 +1,11 @@
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.csproj.AssemblyReference.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.Form1.resources
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.Properties.Resources.resources
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.csproj.GenerateResource.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.csproj.CoreCompileInputs.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ClassCalculator\ClassCalculator\bin\Debug\ClassCalculator.exe.config
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ClassCalculator\ClassCalculator\bin\Debug\ClassCalculator.exe
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ClassCalculator\ClassCalculator\bin\Debug\ClassCalculator.pdb
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.exe
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\ClassCalculator\ClassCalculator\obj\Debug\ClassCalculator.pdb

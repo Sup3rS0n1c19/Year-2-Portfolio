@@ -1,0 +1,11 @@
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PeopleDatabase2024\PeopleDatabase2024\bin\Debug\PeopleDatabase2024.exe.config
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PeopleDatabase2024\PeopleDatabase2024\bin\Debug\PeopleDatabase2024.exe
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PeopleDatabase2024\PeopleDatabase2024\bin\Debug\PeopleDatabase2024.pdb
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PeopleDatabase2024\PeopleDatabase2024\obj\Debug\PeopleDatabase2024.csproj.AssemblyReference.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PeopleDatabase2024\PeopleDatabase2024\obj\Debug\PeopleDatabase2024.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PeopleDatabase2024\PeopleDatabase2024\obj\Debug\PeopleDatabase2024.Form1.resources
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PeopleDatabase2024\PeopleDatabase2024\obj\Debug\PeopleDatabase2024.Properties.Resources.resources
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PeopleDatabase2024\PeopleDatabase2024\obj\Debug\PeopleDatabase2024.csproj.GenerateResource.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PeopleDatabase2024\PeopleDatabase2024\obj\Debug\PeopleDatabase2024.csproj.CoreCompileInputs.cache
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PeopleDatabase2024\PeopleDatabase2024\obj\Debug\PeopleDatabase2024.exe
+C:\Users\M2201992\OneDrive - Middlesbrough College\Year 2\Programming - Trevor\C#\PeopleDatabase2024\PeopleDatabase2024\obj\Debug\PeopleDatabase2024.pdb
